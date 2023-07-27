@@ -17,5 +17,8 @@
   "bugs": {
     "url": "https://github.com/khalilbalic/amazona/issues"
   },
-  "homepage": "https://github.com/khalilbalic/amazona#readme"
+  "homepage": "https://github.com/khalilbalic/amazona#readme",
+  "dependencies": {
+    "react-google-charts": "^4.0.1"
+  }
 }
